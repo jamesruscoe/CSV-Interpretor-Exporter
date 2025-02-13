@@ -17,8 +17,8 @@ A Laravel-based application that processes CSV files containing name data and sp
 
 1. Clone the repository:
 ```bash
-git clone [your-repository-url]
-cd [repository-name]
+git clone git@github.com:jamesruscoe/CSV-Interpretor-Exporter.git
+cd /CSV-Interpretor-Exporter
 ```
 
 2. Install dependencies:
