@@ -52,11 +52,12 @@ npm run dev
 php artisan serve
 ```
 
-2. Navigate to `http://localhost:8000` in your browser
+2. Navigate to `https://uploader.local/` in your browser
 
 3. Upload a CSV file containing name data
 
 4. The application will process the file and display the results in a structured table
+5. You can also export this display at the touch of a button to which will export as a csv but re structured
 
 ### CSV Format
 
